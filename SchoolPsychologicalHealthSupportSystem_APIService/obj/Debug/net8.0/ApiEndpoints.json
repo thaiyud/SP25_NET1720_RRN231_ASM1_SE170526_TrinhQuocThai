@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "SchoolPsychologicalHealthSupportSystem_APIService.BlogController",
+    "ContainingType": "SchoolPsychologicalHealthSupportSystem_APIService.Controllers.BlogController",
     "Method": "Get",
     "RelativePath": "api/Blog",
     "HttpMethod": "GET",
@@ -20,7 +20,7 @@
     ]
   },
   {
-    "ContainingType": "SchoolPsychologicalHealthSupportSystem_APIService.BlogController",
+    "ContainingType": "SchoolPsychologicalHealthSupportSystem_APIService.Controllers.BlogController",
     "Method": "Post",
     "RelativePath": "api/Blog",
     "HttpMethod": "POST",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "ContainingType": "SchoolPsychologicalHealthSupportSystem_APIService.BlogController",
+    "ContainingType": "SchoolPsychologicalHealthSupportSystem_APIService.Controllers.BlogController",
     "Method": "Get",
     "RelativePath": "api/Blog/{id}",
     "HttpMethod": "GET",
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "ContainingType": "SchoolPsychologicalHealthSupportSystem_APIService.BlogController",
+    "ContainingType": "SchoolPsychologicalHealthSupportSystem_APIService.Controllers.BlogController",
     "Method": "Put",
     "RelativePath": "api/Blog/{id}",
     "HttpMethod": "PUT",
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "ContainingType": "SchoolPsychologicalHealthSupportSystem_APIService.BlogController",
+    "ContainingType": "SchoolPsychologicalHealthSupportSystem_APIService.Controllers.BlogController",
     "Method": "Delete",
     "RelativePath": "api/Blog/{id}",
     "HttpMethod": "DELETE",
@@ -115,5 +115,21 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "SchoolPsychologicalHealthSupportSystem_APIService.Controllers.UserAccountController",
+    "Method": "Login",
+    "RelativePath": "api/UserAccount/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SchoolPsychologicalHealthSupportSystem_APIService.Controllers.UserAccountController\u002BLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

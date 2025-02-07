@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SchoolPsychologicalHealthSupportSystem_Repo
-build_property.ProjectDir = D:\sem8\prn321\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\SchoolPsychologicalHealthSupportSystem\
+build_property.ProjectDir = D:\sem8\prn321\project\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\SchoolPsychologicalHealthSupportSystem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
