@@ -1,143 +1,127 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.Net.Http;
+using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-using Microsoft.EntityFrameworkCore;
-using SchoolPsychologicalHealthSupportSystem.DBContext;
+using Newtonsoft.Json;
 using SchoolPsychologicalHealthSupportSystem.Models;
 
 namespace SchoolPsychologicalHealthSupportSystem_WebApp.Controllers
 {
     public class BlogsController : Controller
     {
-        private readonly NET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext _context;
+        private readonly HttpClient _httpClient;
+        private readonly string APIEndPoint = "https://localhost:6969/api/";
 
-        public BlogsController(NET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext context)
+        public BlogsController(HttpClient httpClient)
         {
-            _context = context;
+            _httpClient = httpClient;
         }
 
         // GET: Blogs
         public async Task<IActionResult> Index()
         {
-            var nET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext = _context.Blogs.Include(b => b.Category);
-            return View(await nET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext.ToListAsync());
+            var response = await _httpClient.GetAsync(APIEndPoint + "Blog");
+            if (!response.IsSuccessStatusCode)
+            {
+                return View(new List<Blog>());
+            }
+
+            var jsonData = await response.Content.ReadAsStringAsync();
+            var blogs = JsonConvert.DeserializeObject<List<Blog>>(jsonData);
+            return View(blogs);
         }
 
         // GET: Blogs/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> Details(int id)
         {
-            if (id == null)
+            var response = await _httpClient.GetAsync(APIEndPoint + $"Blog/{id}");
+            if (!response.IsSuccessStatusCode)
             {
                 return NotFound();
             }
 
-            var blog = await _context.Blogs
-                .Include(b => b.Category)
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (blog == null)
-            {
-                return NotFound();
-            }
-
+            var jsonData = await response.Content.ReadAsStringAsync();
+            var blog = JsonConvert.DeserializeObject<Blog>(jsonData);
             return View(blog);
         }
 
         // GET: Blogs/Create
-        public IActionResult Create()
+        public async Task<IActionResult> Create()
         {
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id");
             return View();
         }
 
         // POST: Blogs/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,CategoryId,Name,Title,Content,TopicImages,LikeCount,Hashtag,Dislike,StarAverage,ReviewCount,Status,CreateBy,CreateAt,UpdateAt")] Blog blog)
+        public async Task<IActionResult> Create(Blog blog)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(blog);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                var json = JsonConvert.SerializeObject(blog);
+                var content = new StringContent(json, Encoding.UTF8, "application/json");
+
+                var response = await _httpClient.PostAsync(APIEndPoint + "Blog", content);
+                if (response.IsSuccessStatusCode)
+                {
+                    return RedirectToAction(nameof(Index));
+                }
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", blog.CategoryId);
             return View(blog);
         }
 
         // GET: Blogs/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> Edit(int id)
         {
-            if (id == null)
+            var response = await _httpClient.GetAsync(APIEndPoint + $"Blog/{id}");
+            if (!response.IsSuccessStatusCode)
             {
                 return NotFound();
             }
 
-            var blog = await _context.Blogs.FindAsync(id);
-            if (blog == null)
-            {
-                return NotFound();
-            }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", blog.CategoryId);
+            var jsonData = await response.Content.ReadAsStringAsync();
+            var blog = JsonConvert.DeserializeObject<Blog>(jsonData);
             return View(blog);
         }
 
         // POST: Blogs/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,CategoryId,Name,Title,Content,TopicImages,LikeCount,Hashtag,Dislike,StarAverage,ReviewCount,Status,CreateBy,CreateAt,UpdateAt")] Blog blog)
+        public async Task<IActionResult> Edit(int id, Blog blog)
         {
             if (id != blog.Id)
             {
-                return NotFound();
+                return BadRequest();
             }
 
             if (ModelState.IsValid)
             {
-                try
+                var json = JsonConvert.SerializeObject(blog);
+                var content = new StringContent(json, Encoding.UTF8, "application/json");
+
+                var response = await _httpClient.PutAsync(APIEndPoint + $"Blog/{id}", content);
+                if (response.IsSuccessStatusCode)
                 {
-                    _context.Update(blog);
-                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
                 }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!BlogExists(blog.Id))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
-                return RedirectToAction(nameof(Index));
             }
-            ViewData["CategoryId"] = new SelectList(_context.Categories, "Id", "Id", blog.CategoryId);
             return View(blog);
         }
 
         // GET: Blogs/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        public async Task<IActionResult> Delete(int id)
         {
-            if (id == null)
+            var response = await _httpClient.GetAsync(APIEndPoint + $"Blog/{id}");
+            if (!response.IsSuccessStatusCode)
             {
                 return NotFound();
             }
 
-            var blog = await _context.Blogs
-                .Include(b => b.Category)
-                .FirstOrDefaultAsync(m => m.Id == id);
-            if (blog == null)
-            {
-                return NotFound();
-            }
-
+            var jsonData = await response.Content.ReadAsStringAsync();
+            var blog = JsonConvert.DeserializeObject<Blog>(jsonData);
             return View(blog);
         }
 
@@ -146,19 +130,12 @@ namespace SchoolPsychologicalHealthSupportSystem_WebApp.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var blog = await _context.Blogs.FindAsync(id);
-            if (blog != null)
+            var response = await _httpClient.DeleteAsync(APIEndPoint + $"Blog/{id}");
+            if (response.IsSuccessStatusCode)
             {
-                _context.Blogs.Remove(blog);
+                return RedirectToAction(nameof(Index));
             }
-
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }
-
-        private bool BlogExists(int id)
-        {
-            return _context.Blogs.Any(e => e.Id == id);
+            return View();
         }
     }
 }

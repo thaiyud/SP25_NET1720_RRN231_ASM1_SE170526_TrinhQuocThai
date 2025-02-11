@@ -20,7 +20,7 @@ namespace SchoolPsychologicalHealthSupportSystem_Service
             return await _blogRepository.GetAll();
         }
 
-        public Blog GetById(int id)
+        public async Task<Blog> GetById(int id)
         {
             return _blogRepository.GetById(id);
         }

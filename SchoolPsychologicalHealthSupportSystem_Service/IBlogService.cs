@@ -11,7 +11,7 @@ namespace SchoolPsychologicalHealthSupportSystem_Service
     public interface IBlogService
     {
         Task<List<Blog>> GetAll();
-        Blog GetById(int id);
+        Task<Blog> GetById(int id);
         Task<int> Create(Blog blog);
         Task<int> Update(Blog blog);
         Task<bool> Delete(int id);

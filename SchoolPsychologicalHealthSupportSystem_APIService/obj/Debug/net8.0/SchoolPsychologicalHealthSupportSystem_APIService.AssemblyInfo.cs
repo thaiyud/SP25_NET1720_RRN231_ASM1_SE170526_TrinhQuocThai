@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SchoolPsychologicalHealthSupportSystem_APIService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93082ec891f562a04e45c9a62c16c5bf32db444e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e86d028e241f2d4c6972c1c1d59bf7b6aeeb7848")]
 [assembly: System.Reflection.AssemblyProductAttribute("SchoolPsychologicalHealthSupportSystem_APIService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SchoolPsychologicalHealthSupportSystem_APIService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
