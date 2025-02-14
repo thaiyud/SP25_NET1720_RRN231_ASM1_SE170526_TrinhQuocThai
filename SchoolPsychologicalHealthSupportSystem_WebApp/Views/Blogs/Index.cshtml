@@ -100,12 +100,14 @@
                 @Html.DisplayFor(modelItem => item.UpdateAt)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Category.Id)
+                @Html.DisplayFor(modelItem => item.Category.Name)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+                    <a asp-action="DeleteQuickly" asp-route-id="@item.Id" style="color: red; font-weight: bold;">X</a>
+
             </td>
         </tr>
 }

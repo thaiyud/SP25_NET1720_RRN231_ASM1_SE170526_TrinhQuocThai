@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\views\\blogs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\views\\blogs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +31,32 @@
       "RelativeMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_apiservice\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\views\\blogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_apiservice\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_apiservice\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA11FFB7-0BCD-4D6B-8C38-EA8E7D108293}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA11FFB7-0BCD-4D6B-8C38-EA8E7D108293}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA11FFB7-0BCD-4D6B-8C38-EA8E7D108293}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA11FFB7-0BCD-4D6B-8C38-EA8E7D108293}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_apiservice\\schoolpsychologicalhealthsupportsystem_apiservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_apiservice\\schoolpsychologicalhealthsupportsystem_apiservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA11FFB7-0BCD-4D6B-8C38-EA8E7D108293}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_service\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +65,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA11FFB7-0BCD-4D6B-8C38-EA8E7D108293}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_service\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA11FFB7-0BCD-4D6B-8C38-EA8E7D108293}|SchoolPsychologicalHealthSupportSystem_Service\\SchoolPsychologicalHealthSupportSystem_Service.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_service\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_apiservice\\schoolpsychologicalhealthsupportsystem_apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_apiservice\\schoolpsychologicalhealthsupportsystem_apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_apiservice\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_apiservice\\schoolpsychologicalhealthsupportsystem_apiservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_apiservice\\schoolpsychologicalhealthsupportsystem_apiservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\views\\blogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\views\\blogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -65,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\schoolpsychologicalhealthsupportsystem_webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\schoolpsychologicalhealthsupportsystem_webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_apiservice\\schoolpsychologicalhealthsupportsystem_apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FD4C1A84-CE1F-4C65-8F2F-1053768F9E8F}|SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_apiservice\\schoolpsychologicalhealthsupportsystem_apiservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -93,10 +129,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\views\\account\\forbiden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\views\\account\\forbiden.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem_webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{652A9B3D-F5E1-4BAD-AAD1-DDC5628FED8D}|SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem_webapp\\views\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -131,20 +163,12 @@
       "RelativeMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\schoolpsychologicalhealthsupportsystem_repo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|solutionrelative:schoolpsychologicalhealthsupportsystem\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DFDA56E-582E-48F9-910F-DEEA2B3E8D16}|SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj|d:\\sem8\\prn321\\project\\sp25_net1720_rrn231_asm1_se170526_trinhquocthai\\schoolpsychologicalhealthsupportsystem\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -161,7 +185,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 232,
           "SelectedChildIndex": 12,
           "Children": [
             {
@@ -190,7 +214,202 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_Service\\CategoryService.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_Service\\CategoryService.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_Service\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:17:20.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:42:02.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\CategoryRepo.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\CategoryRepo.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\CategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:23:40.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:11:03.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:13:52.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Index.cshtml",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Index.cshtml",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T04:32:56.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBYAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T03:53:49.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\BlogsController.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAABMBAAAAAAAAAADwv0wBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:54:57.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Delete.cshtml",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Delete.cshtml",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Delete.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T03:41:53.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:44:28.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:54:41.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SchoolPsychologicalHealthSupportSystem_APIService.http",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.http",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.http",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.http",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-07T04:52:09.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_Service\\ICategoryService.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_Service\\ICategoryService.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:28:49.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\Program.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Program.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_APIService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T03:04:54.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwHQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:31:10.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IBlogService.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_Service\\IBlogService.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_Service\\IBlogService.cs",
@@ -198,103 +417,47 @@
               "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_Service\\IBlogService.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAADwvw0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T03:43:45.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T03:43:45.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BlogService.cs",
-              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
-              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_Service\\BlogService.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAawBYAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T03:42:02.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-10T04:33:45.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Index.cshtml",
-              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Index.cshtml",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Index.cshtml",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Index.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T04:32:56.033Z",
-              "EditorCaption": ""
+              "DocumentIndex": 17,
+              "Title": "SchoolPsychologicalHealthSupportSystem_APIService.csproj",
+              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj",
+              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-07T03:05:28.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BlogsController.cs",
-              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\BlogsController.cs",
-              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\BlogsController.cs",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\BlogsController.cs",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\BlogsController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAgwB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T04:29:39.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB0AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T03:11:03.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Program.cs",
-              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\Program.cs",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Program.cs",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_APIService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T03:04:54.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Program.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Program.cs",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Program.cs*",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Program.cs*",
+              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Program.cs",
+              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T03:45:09.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T03:45:09.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\BlogController.cs",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAQwEMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T04:23:41.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Models\\LoginRequest.cs",
@@ -306,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Account\\Login.cshtml",
@@ -318,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "UserAccountController.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\UserAccountController.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\UserAccountController.cs",
@@ -326,12 +489,11 @@
               "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_APIService\\Controllers\\UserAccountController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAgwDYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T03:18:06.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T03:18:06.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Controllers\\HomeController.cs",
@@ -343,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Home\\Index.cshtml",
@@ -355,19 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SchoolPsychologicalHealthSupportSystem_APIService.http",
-              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.http",
-              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.http",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.http",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-07T04:52:09.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "SchoolPsychologicalHealthSupportSystem_WebApp.csproj",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\SchoolPsychologicalHealthSupportSystem_WebApp.csproj",
@@ -379,19 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SchoolPsychologicalHealthSupportSystem_APIService.csproj",
-              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj",
-              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-07T03:05:28.872Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Details.cshtml",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Details.cshtml",
@@ -403,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Edit.cshtml",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Blogs\\Edit.cshtml",
@@ -415,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\Properties\\launchSettings.json",
@@ -427,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "Forbiden.cshtml",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Account\\Forbiden.cshtml",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Account\\Forbiden.cshtml",
@@ -439,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\appsettings.json",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\appsettings.json",
@@ -451,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "SchoolPsychologicalHealthSupportSystem_APIService",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\SchoolPsychologicalHealthSupportSystem_APIService.csproj",
@@ -462,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_APIService\\appsettings.json",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_APIService\\appsettings.json",
@@ -474,19 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-07T03:53:49.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Error.cshtml",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Error.cshtml",
@@ -498,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Index.cshtml",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Views\\Index.cshtml",
@@ -510,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Properties\\launchSettings.json",
@@ -522,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "UserAccountService.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_Service\\UserAccountService.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_Service\\UserAccountService.cs",
@@ -534,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "IUserAccountService.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_Service\\IUserAccountService.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_Service\\IUserAccountService.cs",
@@ -546,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem_WebApp\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem_WebApp\\Models\\ErrorViewModel.cs",
@@ -558,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "UserAccountRepository.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\UserAccountRepository.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\UserAccountRepository.cs",
@@ -570,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "SchoolPsychologicalHealthSupportSystem_Repo.csproj",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\SchoolPsychologicalHealthSupportSystem_Repo.csproj",
@@ -582,19 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T04:33:45.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "UserAccount.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\Models\\UserAccount.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\Models\\UserAccount.cs",
@@ -606,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "Blog.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\Models\\Blog.cs",
@@ -618,19 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "BlogRepository.cs",
-              "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
-              "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
-              "ToolTip": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
-              "RelativeToolTip": "SchoolPsychologicalHealthSupportSystem\\BlogRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvw8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T04:13:52.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\GenericRepository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\GenericRepository\\GenericRepository.cs",
@@ -642,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "NET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext.cs",
               "DocumentMoniker": "D:\\sem8\\prn321\\project\\SP25_NET1720_RRN231_ASM1_SE170526_TrinhQuocThai\\SchoolPsychologicalHealthSupportSystem\\DBContext\\NET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext.cs",
               "RelativeDocumentMoniker": "SchoolPsychologicalHealthSupportSystem\\DBContext\\NET1720_PRN231_PRJ_G1_SchoolPsychologicalHealthSupportSystemContext.cs",
