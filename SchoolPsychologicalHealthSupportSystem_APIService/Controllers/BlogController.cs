@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.OData.Query;
 using SchoolPsychologicalHealthSupportSystem.Models;
 using SchoolPsychologicalHealthSupportSystem_Service;
 using System.Collections.Generic;
@@ -7,6 +10,7 @@ using System.Threading.Tasks;
 namespace SchoolPsychologicalHealthSupportSystem_APIService.Controllers
 {
     [Route("api/[controller]")]
+    [Authorize]
     [ApiController]
     public class BlogController : ControllerBase
     {
@@ -18,6 +22,7 @@ namespace SchoolPsychologicalHealthSupportSystem_APIService.Controllers
         }
 
         [HttpGet]
+        [EnableQuery]
         public async Task<ActionResult<IEnumerable<Blog>>> Get()
         {
             var blogs = await _blogService.GetAll();
